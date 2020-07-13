@@ -1,5 +1,5 @@
 html, body {
-    height: 100%;
+    /* height: 100%; */
 }
 
 .righteous {
@@ -36,4 +36,8 @@ body {
     border-radius: 10px;
     padding: 3px;
     max-width: 150px;
+}
+
+.project-image {
+    width: 90%;
 }
