@@ -7,7 +7,7 @@ html, body {
 }
 
 a:hover {
-    color: #A15E29;
+    color: #bf93c4;
 }
 
 body {
@@ -21,7 +21,11 @@ body {
 }
 
 .white-font {
-    color: white;
+    color: #fbf2fc;
+}
+
+.violet {
+    color: #bf93c4;
 }
 
 .me {
@@ -33,12 +37,29 @@ body {
 }
 
 .level-item {
-    border: solid 1px white;
+    border: solid 1px #bf93c4;
     border-radius: 10px;
     padding: 3px;
     max-width: 150px;
 }
 
+.links {
+    margin-top: 40px;
+}
 .project-image {
     width: 90%;
+    margin: auto;
+    display: block;
+    border: solid #bf93c4 1px;
+}
+
+.project-div {
+    margin: 50px 0;
+    border: solid 1px white;
+    min-height: 250px;
+}
+
+.project-pad {
+    padding-left: 40px;
+    padding-right: 40px;
 }
