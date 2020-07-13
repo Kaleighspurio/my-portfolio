@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+}
+.navbar {
+    background-color: #2E1140;
+}
+
+body {
+    background-image: url('../images/background.jpeg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.white-font {
+    color: white;
+}
