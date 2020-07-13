@@ -16,3 +16,11 @@ body {
 .white-font {
     color: white;
 }
+
+.me {
+    border-radius: 100%;
+    margin: 40px 0px;
+    width: 20%;
+    display: block;
+    margin: 50px auto;
+}
