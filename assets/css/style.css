@@ -1,13 +1,14 @@
 html, body {
     height: 100%;
 }
-.navbar {
-    background-color: #2E1140;
+
+a:hover {
+    color: #A15E29;
 }
 
 body {
     background-image: url('../images/background.jpeg');
-    background-size: 100% 100%;
+    background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     height: 100%;
@@ -25,8 +26,8 @@ body {
     margin: 50px auto;
 }
 
-/* .level {
-    width: 60%;
+.half {
+    width: 50%;
     display: block;
-    margin: auto
-} */
+    margin: auto;
+}
