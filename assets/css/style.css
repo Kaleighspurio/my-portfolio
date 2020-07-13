@@ -2,16 +2,21 @@ html, body {
     height: 100%;
 }
 
+.righteous {
+  font-family: 'Righteous', cursive;  
+}
+
 a:hover {
     color: #A15E29;
 }
 
 body {
-    background-image: url('../images/background.jpeg');
+    background-image: url('../images/texture_spots_purple.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     height: 100%;
+    font-family: 'Raleway', sans-serif;
 }
 
 .white-font {
@@ -26,8 +31,9 @@ body {
     margin: 50px auto;
 }
 
-.half {
-    width: 50%;
-    display: block;
-    margin: auto;
+.level-item {
+    border: solid 1px white;
+    border-radius: 10px;
+    padding: 3px;
+    max-width: 150px;
 }
