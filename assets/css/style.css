@@ -54,6 +54,10 @@ body {
 .links {
     margin-top: 40px;
 }
+
+.app-link:hover {
+    color: white;
+}
 .project-image {
     width: 90%;
     margin: auto;
