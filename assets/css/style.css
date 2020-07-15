@@ -34,10 +34,14 @@ body {
 
 .me {
     border-radius: 100%;
-    margin: 40px 0px;
+    /* margin: 60px 0px; */
     width: 20%;
     display: block;
     margin: 50px auto;
+}
+
+.img-div {
+    margin: 2em;
 }
 
 .level-item {
