@@ -1,6 +1,10 @@
-/* html, body {
-    height: 100%;
-} */
+
+html {
+    background-image: url('../images/texture_spots_purple.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
 
 .righteous {
   font-family: 'Righteous', cursive;  
@@ -15,11 +19,11 @@ a:hover {
 }
 
 body {
-    background-image: url('../images/texture_spots_purple.jpg');
+    /* background-image: url('../images/texture_spots_purple.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    min-height: 1100px;
+    min-height: 1100px; */
     /* height: 100%; */
     font-family: 'Raleway', sans-serif;
 }
